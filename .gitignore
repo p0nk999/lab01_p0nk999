@@ -11,6 +11,15 @@
 *.gch
 *.pch
 
+HEAD
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+fdbcfb0 (Initial commit)
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -30,3 +39,9 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
+=======
+
+# debug information files
+*.dwo
+>>>>>>> fdbcfb0 (Initial commit)
